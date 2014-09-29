@@ -10,7 +10,7 @@ FLUCARD APP is Linux server scripts for the Flucard Pro (WiFi SD card)
 
 ## Follow the guidelines to use application.
 
-    * [netbuffalo's blog](http://netbuffalo.doorblog.jp/archives/4811269.html)
+[netbuffalo's blog](http://netbuffalo.doorblog.jp/archives/4811269.html)
 
 ## License
 
