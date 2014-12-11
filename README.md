@@ -14,5 +14,5 @@ FLUCARD APP is Linux server scripts for the Flucard Pro (WiFi SD card)
 
 ## License
 
-Released under the [MIT License](http://www.opensource.org/licenses/MIT).
+Released under the [MIT License](http://www.opensource.org/licenses/MIT)
 
